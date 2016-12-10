@@ -1,0 +1,10 @@
+name: AdvancedHeads
+version: 1.0.0
+author: G_3_N_I_S_Y_S
+
+main: de.zbs.advancedheads.main.AdvancedHeads
+
+commands:
+  head:
+    description: Hauptcommand von AdvancedHeads
+    aliases: [heads, ph, playerhead]
